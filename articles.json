@@ -225,6 +225,13 @@
   },
   {
     "finding": "effective",
+    "title": "The impact of non-pharmaceutical interventions on SARS-CoV-2 transmission across 130 countries and territories",
+    "url": "https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-020-01872-8",
+    "quote": "\"the effectiveness of school closure and internal movement restrictions appears robust across different model specifications, with some evidence that other NPIs may also be effective under particular conditions\"",
+    "pub": "Feb 2021"
+  },
+  {
+    "finding": "effective",
     "title": "Government Effectiveness and the COVID-19 Pandemic",
     "url": "https://www.mdpi.com/2071-1050/13/6/3042",
     "quote": "\"Less stringent interventions increase the number of deaths, whereas more severe responses to the pandemic can lower fatalities\"",
