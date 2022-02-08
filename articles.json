@@ -15,6 +15,13 @@
   },
   {
     "finding": "effective",
+    "title": "Spread and dynamics of the COVID-19 epidemic in Italy: Effects of emergency containment measures",
+    "url": "https://www.pnas.org/content/117/19/10484",
+    "quote": "\"Results suggest that the sequence of restrictions posed to mobility and human-to-human interactions have reduced transmission by 45% (42 to 49%)\"",
+    "pub": "May 2020"
+  },
+  {
+    "finding": "effective",
     "title": "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe",
     "url": "https://www.nature.com/articles/s41586-020-2405-7",
     "quote": "\"Our results show that major non-pharmaceutical interventions—and lockdowns in particular—have had a large effect on reducing transmission\"",
@@ -49,6 +56,13 @@
     "pub": "Jul 2020"
   },
   {
+    "finding": "inconclusive",
+    "title": "A country level analysis measuring the impact of government actions, country preparedness and socioeconomic factors on COVID-19 mortality and related health outcomes",
+    "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30208-X/fulltext",
+    "quote": "\"we do not support a definitive judgement on the effectiveness\" of interventions because \"many countries included in our dataset were not yet in the “plateau” or downslope phase of their individual epidemiologic curves\"",
+    "pub": "Jul 2020"
+  },
+  {
     "finding": "effective",
     "title": "The effect of large-scale anti-contagion policies on the COVID-19 pandemic",
     "url": "https://www.nature.com/articles/s41586-020-2404-8",
@@ -70,10 +84,31 @@
     "pub": "Sep 2020"
   },
   {
+    "finding": "inconclusive",
+    "title": "Effect of school closures on mortality from coronavirus disease 2019: old and new predictions",
+    "url": "https://www.bmj.com/content/371/bmj.m3588",
+    "quote": "\"prompt interventions were shown to be highly effective at reducing peak demand for intensive care unit (ICU) beds\" however the unintended consequence is that, in the absence of an effective vaccine, \"when the interventions are lifted, there is still a large population who are susceptible and a substantial number of people who are infected. This then leads to a second wave of infections that can result in more deaths, but later.\" Vaccines being available \"is not considered in the model\" therefore it is inconclusive how the model applies to the real-world.",
+    "pub": "Sep 2020"
+  },
+  {
     "finding": "effective",
     "title": "Coronavirus Disease 2019 (COVID-19) Transmission in the United States Before Versus After Relaxation of Statewide Social Distancing Measures",
     "url": "https://academic.oup.com/cid/article/73/Supplement_2/S120/5917573",
     "quote": "\"We detected an immediate and significant reversal in SARS-CoV-2 epidemic suppression after relaxation of social distancing measures across the United States\"",
+    "pub": "Oct 2020"
+  },
+  {
+    "finding": "ineffective",
+    "title": "Government mandated lockdowns do not reduce Covid-19 deaths: implications for evaluating the stringent New Zealand response",
+    "url": "https://www.tandfonline.com/doi/full/10.1080/00779954.2020.1844786",
+    "quote": "\"Lockdowns do not reduce Covid-19 deaths\"",
+    "pub": "Oct 2020"
+  },
+  {
+    "finding": "inconclusive",
+    "title": "Association of Country-wide Coronavirus Mortality with Demographics, Testing, Lockdowns, and Public Wearing of Masks",
+    "url": "https://www.ajtmh.org/view/journals/tpmd/103/6/article-p2400.xml",
+    "quote": "\"there appeared to be a negative association between mortality and time in lockdown (P = 0.83)\" [P=0.83 is statistically insignificant, thus language \"appeared\" to evoke inconclusiveness]",
     "pub": "Oct 2020"
   },
   {
@@ -112,6 +147,20 @@
     "pub": "Nov 2020"
   },
   {
+    "finding": "ineffective",
+    "title": "Covid-19 Mortality: A Matter of Vulnerability Among Nations Facing Limited Margins of Adaptation",
+    "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2020.604339/full",
+    "quote": "\"Stringency of the measures settled to fight pandemia, including lockdown, did not appear to be linked with death rate\"",
+    "pub": "Nov 2020"
+  },
+  {
+    "finding": "inconclusive",
+    "title": "A phenomenological approach to assessing the effectiveness of COVID-19 related nonpharmaceutical interventions in Germany",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0925753520303210",
+    "quote": "\"The decline of infections [...] can be attributed to relatively small interventions [...] Additional effects of later interventions cannot be detected clearly [...] Thus, the effectiveness of most German interventions remains questionable\"",
+    "pub": "Nov 2020"
+  },
+  {
     "finding": "effective",
     "title": "The effect of interventions on COVID-19",
     "url": "https://www.nature.com/articles/s41586-020-3025-y",
@@ -123,6 +172,13 @@
     "title": "Inferring the effectiveness of government interventions against COVID-19",
     "url": "https://www.science.org/doi/10.1126/science.abd9338",
     "quote": "\"These results indicate that, by using effective interventions, some countries could control the epidemic while avoiding stay-at-home orders\"",
+    "pub": "Dec 2020"
+  },
+  {
+    "finding": "ineffective",
+    "title": "Modeling Social Distancing Strategies to Prevent SARS-CoV-2 Spread in Israel: A Cost-Effectiveness Analysis",
+    "url": "https://www.valueinhealthjournal.com/article/S1098-3015(20)34421-1/fulltext",
+    "quote": "\"A national lockdown has a moderate advantage in saving lives with tremendous costs and possible overwhelming economic effects.\"",
     "pub": "Dec 2020"
   },
   {
@@ -147,10 +203,24 @@
     "pub": "Jan 2021"
   },
   {
+    "finding": "inconclusive",
+    "title": "Assessing mandatory stay-at-home and business closure effects on the spread of COVID-19",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13484",
+    "quote": "\"Implementing any NPIs was associated with significant reductions in case growth in 9 out of 10 study countries\" however \"we find no clear, significant beneficial effect of mrNPIs on case growth in any country\"",
+    "pub": "Jan 2021"
+  },
+  {
     "finding": "effective",
     "title": "Effectiveness of non-pharmaceutical interventions to contain COVID-19: a case study of the 2020 spring pandemic wave in New York City",
     "url": "https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0822",
     "quote": "\"Lockdown-like measures were associated with greater than 50% transmission reduction for all age groups\"",
+    "pub": "Feb 2021"
+  },
+  {
+    "finding": "effective",
+    "title": "Modeling the effect of lockdown timing as a COVID-19 control measure in countries with differing social contacts",
+    "url": "https://www.nature.com/articles/s41598-021-82873-2",
+    "quote": "\"The timing of lockdowns reveals that a “tunneling” effect on incidence can be achieved to bypass the peak and prevent pandemic caseloads from exceeding hospital capacity.\"",
     "pub": "Feb 2021"
   },
   {
@@ -161,10 +231,38 @@
     "pub": "Mar 2021"
   },
   {
+    "finding": "ineffective",
+    "title": "Did Lockdown Work? An Economist’s Cross-Country Comparison",
+    "url": "https://academic.oup.com/cesifo/article/67/3/318/6199605",
+    "quote": "\"I find no clear association between lockdown policies and mortality development\"",
+    "pub": "Mar 2021"
+  },
+  {
+    "finding": "inconclusive",
+    "title": "Effect estimates of COVID-19 non-pharmaceutical interventions are non-robust and highly model-dependent",
+    "url": "https://www.jclinepi.com/article/S0895-4356(21)00087-1/fulltext",
+    "quote": "\"the impacts of lockdown are uncertain and highly model-dependent\" and \"We do not claim that lockdown measures definitely had no impact in the first wave of COVID-19\"",
+    "pub": "Mar 2021"
+  },
+  {
     "finding": "effective",
     "title": "The Luxury of Lockdown",
     "url": "https://link.springer.com/article/10.1057/s41287-021-00389-x",
     "quote": "\"containment policies have, in general, a significant role in reducing the pandemic’s fatality rate across all countries\" however \"workplace closure is ineffective in low-income countries\"",
+    "pub": "Apr 2021"
+  },
+  {
+    "finding": "effective",
+    "title": "Protecting Lives and Livelihoods with Early and Tight Lockdowns",
+    "url": "https://www.degruyter.com/document/doi/10.1515/bejm-2020-0266/html",
+    "quote": "\"we show that lockdowns substantially reduced COVID-19 cases\"",
+    "pub": "Apr 2021"
+  },
+  {
+    "finding": "inconclusive",
+    "title": "Evaluating the effects of shelter-in-place policies during the COVID-19 pandemic",
+    "url": "https://www.pnas.org/content/118/15/e2019706118",
+    "quote": "\"We find that shelter-in-place orders had no detectable health benefits, only modest effects on behavior\" however \"our study should not be interpreted as evidence that social distancing behaviors are not effective\"",
     "pub": "Apr 2021"
   },
   {
@@ -210,55 +308,6 @@
     "pub": "Jun 2021"
   },
   {
-    "finding": "effective",
-    "title": "Impact of non-pharmaceutical interventions against COVID-19 in Europe in 2020: a quasi-experimental non-equivalent group and time series design study",
-    "url": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.28.2001401",
-    "quote": "\"Our analyses confirm that the imposition of non-pharmaceutical control measures have been effective in controlling epidemics in each investigated country\" however \"we were unable to demonstrate a strong impact from every intervention\"",
-    "pub": "Jul 2021"
-  },
-  {
-    "finding": "effective",
-    "title": "Modeling the effect of lockdown timing as a COVID-19 control measure in countries with differing social contacts",
-    "url": "https://www.nature.com/articles/s41598-021-82873-2",
-    "quote": "\"The timing of lockdowns reveals that a “tunneling” effect on incidence can be achieved to bypass the peak and prevent pandemic caseloads from exceeding hospital capacity.\"",
-    "pub": "Feb 2021"
-  },
-  {
-    "finding": "effective",
-    "title": "Protecting Lives and Livelihoods with Early and Tight Lockdowns",
-    "url": "https://www.degruyter.com/document/doi/10.1515/bejm-2020-0266/html",
-    "quote": "\"we show that lockdowns substantially reduced COVID-19 cases\"",
-    "pub": "Apr 2021"
-  },
-  {
-    "finding": "effective",
-    "title": "The influence of meteorological variables and lockdowns on COVID-19 cases in urban agglomerations of Indian cities",
-    "url": "https://link.springer.com/article/10.1007/s00477-021-02160-4",
-    "quote": "\"Partial lockdown [...] is seen to be highly effective in confining cases\" however they add \"as compared to a complete lockdown\"",
-    "pub": "Jan 2022"
-  },
-  {
-    "finding": "effective",
-    "title": "Spread and dynamics of the COVID-19 epidemic in Italy: Effects of emergency containment measures",
-    "url": "https://www.pnas.org/content/117/19/10484",
-    "quote": "\"Results suggest that the sequence of restrictions posed to mobility and human-to-human interactions have reduced transmission by 45% (42 to 49%)\"",
-    "pub": "May 2020"
-  },
-  {
-    "finding": "effective",
-    "title": "Impacts of worldwide individual non-pharmaceutical interventions on COVID-19 transmission across waves and space",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0303243421003561",
-    "quote": "\"The synergistic effectiveness of all NPIs for reducing COVID-19 infections declined along waves, from 95.4% in the first wave to 56.0% in the third wave recently at the global level and similarly from 83.3% to 58.7% at the USA national level, while it had fluctuating performance across waves on regional and subnational scales\"",
-    "pub": "Feb 2022"
-  },
-  {
-    "finding": "effective",
-    "title": "The Effects of Non-Pharmaceutical Interventions on COVID-19 Epidemic Growth Rate during Pre- and Post-Vaccination Period in Asian Countries",
-    "url": "https://www.mdpi.com/1660-4601/19/3/1139",
-    "quote": "Our findings support the evidence that besides the vaccine increasingly contributing to pandemic control, the implementation of NPIs also plays a key role",
-    "pub": "Jan 2022"
-  },
-  {
     "finding": "ineffective",
     "title": "Whether County Lockdown Could Deter the Contagion of COVID-19 in the USA",
     "url": "https://www.dovepress.com/whether-county-lockdown-could-deter-the-contagion-of-covid-19-in-the-u-peer-reviewed-fulltext-article-RMHP",
@@ -266,32 +315,11 @@
     "pub": "Jun 2021"
   },
   {
-    "finding": "ineffective",
-    "title": "Government mandated lockdowns do not reduce Covid-19 deaths: implications for evaluating the stringent New Zealand response",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/00779954.2020.1844786",
-    "quote": "\"Lockdowns do not reduce Covid-19 deaths\"",
-    "pub": "Oct 2020"
-  },
-  {
-    "finding": "ineffective",
-    "title": "Covid-19 Mortality: A Matter of Vulnerability Among Nations Facing Limited Margins of Adaptation",
-    "url": "https://www.frontiersin.org/articles/10.3389/fpubh.2020.604339/full",
-    "quote": "\"Stringency of the measures settled to fight pandemia, including lockdown, did not appear to be linked with death rate\"",
-    "pub": "Nov 2020"
-  },
-  {
-    "finding": "ineffective",
-    "title": "Modeling Social Distancing Strategies to Prevent SARS-CoV-2 Spread in Israel: A Cost-Effectiveness Analysis",
-    "url": "https://www.valueinhealthjournal.com/article/S1098-3015(20)34421-1/fulltext",
-    "quote": "\"A national lockdown has a moderate advantage in saving lives with tremendous costs and possible overwhelming economic effects.\"",
-    "pub": "Dec 2020"
-  },
-  {
-    "finding": "ineffective",
-    "title": "Did Lockdown Work? An Economist’s Cross-Country Comparison",
-    "url": "https://academic.oup.com/cesifo/article/67/3/318/6199605",
-    "quote": "\"I find no clear association between lockdown policies and mortality development\"",
-    "pub": "Mar 2021"
+    "finding": "effective",
+    "title": "Impact of non-pharmaceutical interventions against COVID-19 in Europe in 2020: a quasi-experimental non-equivalent group and time series design study",
+    "url": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.28.2001401",
+    "quote": "\"Our analyses confirm that the imposition of non-pharmaceutical control measures have been effective in controlling epidemics in each investigated country\" however \"we were unable to demonstrate a strong impact from every intervention\"",
+    "pub": "Jul 2021"
   },
   {
     "finding": "ineffective",
@@ -302,58 +330,30 @@
   },
   {
     "finding": "inconclusive",
-    "title": "A country level analysis measuring the impact of government actions, country preparedness and socioeconomic factors on COVID-19 mortality and related health outcomes",
-    "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30208-X/fulltext",
-    "quote": "\"we do not support a definitive judgement on the effectiveness\" of interventions because \"many countries included in our dataset were not yet in the “plateau” or downslope phase of their individual epidemiologic curves\"",
-    "pub": "Jul 2020"
-  },
-  {
-    "finding": "inconclusive",
-    "title": "Effect estimates of COVID-19 non-pharmaceutical interventions are non-robust and highly model-dependent",
-    "url": "https://www.jclinepi.com/article/S0895-4356(21)00087-1/fulltext",
-    "quote": "\"the impacts of lockdown are uncertain and highly model-dependent\" and \"We do not claim that lockdown measures definitely had no impact in the first wave of COVID-19\"",
-    "pub": "Mar 2021"
-  },
-  {
-    "finding": "inconclusive",
-    "title": "Evaluating the effects of shelter-in-place policies during the COVID-19 pandemic",
-    "url": "https://www.pnas.org/content/118/15/e2019706118",
-    "quote": "\"We find that shelter-in-place orders had no detectable health benefits, only modest effects on behavior\" however \"our study should not be interpreted as evidence that social distancing behaviors are not effective\"",
-    "pub": "Apr 2021"
-  },
-  {
-    "finding": "inconclusive",
-    "title": "Effect of school closures on mortality from coronavirus disease 2019: old and new predictions",
-    "url": "https://www.bmj.com/content/371/bmj.m3588",
-    "quote": "\"prompt interventions were shown to be highly effective at reducing peak demand for intensive care unit (ICU) beds\" however the unintended consequence is that, in the absence of an effective vaccine, \"when the interventions are lifted, there is still a large population who are susceptible and a substantial number of people who are infected. This then leads to a second wave of infections that can result in more deaths, but later.\" Vaccines being available \"is not considered in the model\" therefore it is inconclusive how the model applies to the real-world.",
-    "pub": "Sep 2020"
-  },
-  {
-    "finding": "inconclusive",
-    "title": "A phenomenological approach to assessing the effectiveness of COVID-19 related nonpharmaceutical interventions in Germany",
-    "url": "https://www.sciencedirect.com/science/article/pii/S0925753520303210",
-    "quote": "\"The decline of infections [...] can be attributed to relatively small interventions [...] Additional effects of later interventions cannot be detected clearly [...] Thus, the effectiveness of most German interventions remains questionable\"",
-    "pub": "Nov 2020"
-  },
-  {
-    "finding": "inconclusive",
-    "title": "Association of Country-wide Coronavirus Mortality with Demographics, Testing, Lockdowns, and Public Wearing of Masks",
-    "url": "https://www.ajtmh.org/view/journals/tpmd/103/6/article-p2400.xml",
-    "quote": "\"there appeared to be a negative association between mortality and time in lockdown (P = 0.83)\" [P=0.83 is statistically insignificant, thus language \"appeared\" to evoke inconclusiveness]",
-    "pub": "Oct 2020"
-  },
-  {
-    "finding": "inconclusive",
     "title": "Was R < 1 before the English lockdowns? On modelling mechanistic detail, causality and inference about Covid-19",
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257455",
     "quote": "\"it does not imply that lockdowns had no effect, but it does suggest that other non-pharmaceutical interventions (NPIs) may have been much more effective than Knock et al. imply\"",
     "pub": "Sep 2021"
   },
   {
-    "finding": "inconclusive",
-    "title": "Assessing mandatory stay-at-home and business closure effects on the spread of COVID-19",
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/eci.13484",
-    "quote": "\"Implementing any NPIs was associated with significant reductions in case growth in 9 out of 10 study countries\" however \"we find no clear, significant beneficial effect of mrNPIs on case growth in any country\"",
-    "pub": "Jan 2021"
+    "finding": "effective",
+    "title": "The influence of meteorological variables and lockdowns on COVID-19 cases in urban agglomerations of Indian cities",
+    "url": "https://link.springer.com/article/10.1007/s00477-021-02160-4",
+    "quote": "\"Partial lockdown [...] is seen to be highly effective in confining cases\" however they add \"as compared to a complete lockdown\"",
+    "pub": "Jan 2022"
+  },
+  {
+    "finding": "effective",
+    "title": "The Effects of Non-Pharmaceutical Interventions on COVID-19 Epidemic Growth Rate during Pre- and Post-Vaccination Period in Asian Countries",
+    "url": "https://www.mdpi.com/1660-4601/19/3/1139",
+    "quote": "Our findings support the evidence that besides the vaccine increasingly contributing to pandemic control, the implementation of NPIs also plays a key role",
+    "pub": "Jan 2022"
+  },
+  {
+    "finding": "effective",
+    "title": "Impacts of worldwide individual non-pharmaceutical interventions on COVID-19 transmission across waves and space",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0303243421003561",
+    "quote": "\"The synergistic effectiveness of all NPIs for reducing COVID-19 infections declined along waves, from 95.4% in the first wave to 56.0% in the third wave recently at the global level and similarly from 83.3% to 58.7% at the USA national level, while it had fluctuating performance across waves on regional and subnational scales\"",
+    "pub": "Feb 2022"
   }
 ]
