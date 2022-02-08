@@ -316,6 +316,13 @@
   },
   {
     "finding": "effective",
+    "title": "Estimating the effects of non-pharmaceutical interventions on the number of new infections with COVID-19 during the first epidemic wave",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252827",
+    "quote": "\"Among the NPIs considered, bans of large gatherings were most effective, followed by venue and school closures, whereas stay-at-home orders and work-from-home orders were least effective\"",
+    "pub": "Jun 2021"
+  },
+  {
+    "finding": "effective",
     "title": "Impact of non-pharmaceutical interventions against COVID-19 in Europe in 2020: a quasi-experimental non-equivalent group and time series design study",
     "url": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.28.2001401",
     "quote": "\"Our analyses confirm that the imposition of non-pharmaceutical control measures have been effective in controlling epidemics in each investigated country\" however \"we were unable to demonstrate a strong impact from every intervention\"",
@@ -346,7 +353,7 @@
     "finding": "effective",
     "title": "The Effects of Non-Pharmaceutical Interventions on COVID-19 Epidemic Growth Rate during Pre- and Post-Vaccination Period in Asian Countries",
     "url": "https://www.mdpi.com/1660-4601/19/3/1139",
-    "quote": "Our findings support the evidence that besides the vaccine increasingly contributing to pandemic control, the implementation of NPIs also plays a key role",
+    "quote": "\"Our findings support the evidence that besides the vaccine increasingly contributing to pandemic control, the implementation of NPIs also plays a key role\"",
     "pub": "Jan 2022"
   },
   {
