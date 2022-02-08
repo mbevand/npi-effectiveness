@@ -344,6 +344,13 @@
   },
   {
     "finding": "effective",
+    "title": "Understanding the effectiveness of government interventions against the resurgence of COVID-19 in Europe",
+    "url": "https://www.nature.com/articles/s41467-021-26013-4",
+    "quote": "\"Defining a “lockdown” policy as a ban on all gatherings and closure of all nonessential businesses, we estimate a total reduction in Rt of 52% [95% CI: 47–56%]\"",
+    "pub": "Oct 2021"
+  },
+  {
+    "finding": "effective",
     "title": "The influence of meteorological variables and lockdowns on COVID-19 cases in urban agglomerations of Indian cities",
     "url": "https://link.springer.com/article/10.1007/s00477-021-02160-4",
     "quote": "\"Partial lockdown [...] is seen to be highly effective in confining cases\" however they add \"as compared to a complete lockdown\"",

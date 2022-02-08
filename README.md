@@ -21,8 +21,8 @@ Papers finding NPIs effective outnumber, by 6 to 1, those finding them ineffecti
 
 The list is included below, and is also available in JSON format: [articles.json](articles.json)
 
-There are 52 research articles
-* 38 papers find NPIs are generally effective (:heavy_check_mark:)
+There are 53 research articles
+* 39 papers find NPIs are generally effective (:heavy_check_mark:)
 * 8 papers find NPIs are inconclusive (:question:)
 * 6 papers find NPIs are generally ineffective (:no_entry_sign:)
 
@@ -224,15 +224,19 @@ Sorted by chronological order of publication:
 
   :question: "it does not imply that lockdowns had no effect, but it does suggest that other non-pharmaceutical interventions (NPIs) may have been much more effective than Knock et al. imply"
 
-50. https://link.springer.com/article/10.1007/s00477-021-02160-4 (Jan 2022)
+50. https://www.nature.com/articles/s41467-021-26013-4 (Oct 2021)
+
+  :heavy_check_mark: "Defining a “lockdown” policy as a ban on all gatherings and closure of all nonessential businesses, we estimate a total reduction in Rt of 52% [95% CI: 47–56%]"
+
+51. https://link.springer.com/article/10.1007/s00477-021-02160-4 (Jan 2022)
 
   :heavy_check_mark: "Partial lockdown [...] is seen to be highly effective in confining cases" however they add "as compared to a complete lockdown"
 
-51. https://www.mdpi.com/1660-4601/19/3/1139 (Jan 2022)
+52. https://www.mdpi.com/1660-4601/19/3/1139 (Jan 2022)
 
   :heavy_check_mark: "Our findings support the evidence that besides the vaccine increasingly contributing to pandemic control, the implementation of NPIs also plays a key role"
 
-52. https://www.sciencedirect.com/science/article/pii/S0303243421003561 (Feb 2022)
+53. https://www.sciencedirect.com/science/article/pii/S0303243421003561 (Feb 2022)
 
   :heavy_check_mark: "The synergistic effectiveness of all NPIs for reducing COVID-19 infections declined along waves, from 95.4% in the first wave to 56.0% in the third wave recently at the global level and similarly from 83.3% to 58.7% at the USA national level, while it had fluctuating performance across waves on regional and subnational scales"
 
