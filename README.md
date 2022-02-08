@@ -29,13 +29,13 @@ There are 54 research articles
 Sorted by chronological order of publication:
 
 1. https://science.sciencemag.org/content/early/2020/05/14/science.abb9789 (May 2020)
-
+  
   :heavy_check_mark: "we detected change points in the effective growth rate that correlate well with the times of publicly announced interventions"
-
+  
 1. https://www.ajicjournal.org/article/S0196-6553(20)30314-X/fulltext (May 2020)
-
+  
   :heavy_check_mark: "The results were remarkably consistent across states and support the usefulness of stay-at-home orders in reducing COVID-19 infection rates"
-
+  
 1. https://www.pnas.org/content/117/19/10484 (May 2020)
 
   :heavy_check_mark: "Results suggest that the sequence of restrictions posed to mobility and human-to-human interactions have reduced transmission by 45% (42 to 49%)"
