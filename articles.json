@@ -232,6 +232,13 @@
   },
   {
     "finding": "effective",
+    "title": "The temporal association of introducing and lifting non-pharmaceutical interventions with the time-varying reproduction number (R) of SARS-CoV-2: a modelling study across 131 countries",
+    "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30785-4/fulltext",
+    "quote": "\"Individual NPIs, including school closure, workplace closure, public events ban, ban on gatherings of more than ten people, requirements to stay at home, and internal movement limits, are associated with reduced transmission of SARS-CoV-2\"",
+    "pub": "Feb 2021"
+  },
+  {
+    "finding": "effective",
     "title": "Government Effectiveness and the COVID-19 Pandemic",
     "url": "https://www.mdpi.com/2071-1050/13/6/3042",
     "quote": "\"Less stringent interventions increase the number of deaths, whereas more severe responses to the pandemic can lower fatalities\"",

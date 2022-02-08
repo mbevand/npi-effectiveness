@@ -21,8 +21,8 @@ Papers finding NPIs effective outnumber, by 6 to 1, those finding them ineffecti
 
 The list is included below, and is also available in JSON format: [articles.json](articles.json)
 
-There are 54 research articles
-* 40 papers find NPIs are generally effective (:heavy_check_mark:)
+There are 55 research articles
+* 41 papers find NPIs are generally effective (:heavy_check_mark:)
 * 8 papers find NPIs are inconclusive (:question:)
 * 6 papers find NPIs are generally ineffective (:no_entry_sign:)
 
@@ -160,87 +160,91 @@ Sorted by chronological order of publication:
 
   :heavy_check_mark: "the effectiveness of school closure and internal movement restrictions appears robust across different model specifications, with some evidence that other NPIs may also be effective under particular conditions"
 
-34. https://www.mdpi.com/2071-1050/13/6/3042 (Mar 2021)
+34. https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30785-4/fulltext (Feb 2021)
+
+  :heavy_check_mark: "Individual NPIs, including school closure, workplace closure, public events ban, ban on gatherings of more than ten people, requirements to stay at home, and internal movement limits, are associated with reduced transmission of SARS-CoV-2"
+
+35. https://www.mdpi.com/2071-1050/13/6/3042 (Mar 2021)
 
   :heavy_check_mark: "Less stringent interventions increase the number of deaths, whereas more severe responses to the pandemic can lower fatalities"
 
-35. https://academic.oup.com/cesifo/article/67/3/318/6199605 (Mar 2021)
+36. https://academic.oup.com/cesifo/article/67/3/318/6199605 (Mar 2021)
 
   :no_entry_sign: "I find no clear association between lockdown policies and mortality development"
 
-36. https://www.jclinepi.com/article/S0895-4356(21)00087-1/fulltext (Mar 2021)
+37. https://www.jclinepi.com/article/S0895-4356(21)00087-1/fulltext (Mar 2021)
 
   :question: "the impacts of lockdown are uncertain and highly model-dependent" and "We do not claim that lockdown measures definitely had no impact in the first wave of COVID-19"
 
-37. https://link.springer.com/article/10.1057/s41287-021-00389-x (Apr 2021)
+38. https://link.springer.com/article/10.1057/s41287-021-00389-x (Apr 2021)
 
   :heavy_check_mark: "containment policies have, in general, a significant role in reducing the pandemic’s fatality rate across all countries" however "workplace closure is ineffective in low-income countries"
 
-38. https://www.degruyter.com/document/doi/10.1515/bejm-2020-0266/html (Apr 2021)
+39. https://www.degruyter.com/document/doi/10.1515/bejm-2020-0266/html (Apr 2021)
 
   :heavy_check_mark: "we show that lockdowns substantially reduced COVID-19 cases"
 
-39. https://www.pnas.org/content/118/15/e2019706118 (Apr 2021)
+40. https://www.pnas.org/content/118/15/e2019706118 (Apr 2021)
 
   :question: "We find that shelter-in-place orders had no detectable health benefits, only modest effects on behavior" however "our study should not be interpreted as evidence that social distancing behaviors are not effective"
 
-40. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251373 (May 2021)
+41. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251373 (May 2021)
 
   :heavy_check_mark: "Overall, the results suggest business shutdowns are effective, but should be selectively implemented and centrally coordinated"
 
-41. https://academic.oup.com/heapol/article/36/7/1152/6263531 (May 2021)
+42. https://academic.oup.com/heapol/article/36/7/1152/6263531 (May 2021)
 
   :heavy_check_mark: "We found that COVID-19 containment and closure policies were most effective with respect to mobility and morbidity in higher income countries compared to lower income countries"
 
-42. https://www.nature.com/articles/s41467-021-23404-5 (May 2021)
+43. https://www.nature.com/articles/s41467-021-23404-5 (May 2021)
 
   :heavy_check_mark: "Decreases in mobility were associated with substantial reductions in case growth two to four weeks later"
 
-43. https://academic.oup.com/rfs/article/34/11/5266/6304878 (Jun 2021)
+44. https://academic.oup.com/rfs/article/34/11/5266/6304878 (Jun 2021)
 
   :heavy_check_mark: "We find strong evidence consistent with the idea that [...] restaurant and bar closures, gym closures, and high-risk business closures reduce future fatality" however "Other business restrictions [...] may have been counterproductive"
 
-44. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253348 (Jun 2021)
+45. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253348 (Jun 2021)
 
   :heavy_check_mark: "we show while stricter contemporaneous measures affected mobility, stringency in seven to fourteen days mattered most for containing the contagion"
 
-45. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248849 (Jun 2021)
+46. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248849 (Jun 2021)
 
   :heavy_check_mark: "These results suggest that stay-at-home orders might have reduced confirmed cases by 390,000 (170,000 to 680,000) and fatalities by 41,000 (27,000 to 59,000) within the first three weeks in localities that implemented stay-at-home orders"
 
-46. https://www.dovepress.com/whether-county-lockdown-could-deter-the-contagion-of-covid-19-in-the-u-peer-reviewed-fulltext-article-RMHP (Jun 2021)
+47. https://www.dovepress.com/whether-county-lockdown-could-deter-the-contagion-of-covid-19-in-the-u-peer-reviewed-fulltext-article-RMHP (Jun 2021)
 
   :no_entry_sign: "The relation between distance (complexity of neighbouring) and confirmed cases (contagion) could be explored. Our research shows county lockdown in the USA plays no important role in containing the spread of coronavirus for the time being"
 
-47. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252827 (Jun 2021)
+48. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0252827 (Jun 2021)
 
   :heavy_check_mark: "Among the NPIs considered, bans of large gatherings were most effective, followed by venue and school closures, whereas stay-at-home orders and work-from-home orders were least effective"
 
-48. https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.28.2001401 (Jul 2021)
+49. https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.28.2001401 (Jul 2021)
 
   :heavy_check_mark: "Our analyses confirm that the imposition of non-pharmaceutical control measures have been effective in controlling epidemics in each investigated country" however "we were unable to demonstrate a strong impact from every intervention"
 
-49. https://www.tandfonline.com/doi/full/10.1080/00036846.2021.1955089 (Aug 2021)
+50. https://www.tandfonline.com/doi/full/10.1080/00036846.2021.1955089 (Aug 2021)
 
   :no_entry_sign: "Our preferred baseline model indicates that the first national lockdown in England and Wales had a net mortality increasing effect"
 
-50. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257455 (Sep 2021)
+51. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257455 (Sep 2021)
 
   :question: "it does not imply that lockdowns had no effect, but it does suggest that other non-pharmaceutical interventions (NPIs) may have been much more effective than Knock et al. imply"
 
-51. https://www.nature.com/articles/s41467-021-26013-4 (Oct 2021)
+52. https://www.nature.com/articles/s41467-021-26013-4 (Oct 2021)
 
   :heavy_check_mark: "Defining a “lockdown” policy as a ban on all gatherings and closure of all nonessential businesses, we estimate a total reduction in Rt of 52% [95% CI: 47–56%]"
 
-52. https://link.springer.com/article/10.1007/s00477-021-02160-4 (Jan 2022)
+53. https://link.springer.com/article/10.1007/s00477-021-02160-4 (Jan 2022)
 
   :heavy_check_mark: "Partial lockdown [...] is seen to be highly effective in confining cases" however they add "as compared to a complete lockdown"
 
-53. https://www.mdpi.com/1660-4601/19/3/1139 (Jan 2022)
+54. https://www.mdpi.com/1660-4601/19/3/1139 (Jan 2022)
 
   :heavy_check_mark: "Our findings support the evidence that besides the vaccine increasingly contributing to pandemic control, the implementation of NPIs also plays a key role"
 
-54. https://www.sciencedirect.com/science/article/pii/S0303243421003561 (Feb 2022)
+55. https://www.sciencedirect.com/science/article/pii/S0303243421003561 (Feb 2022)
 
   :heavy_check_mark: "The synergistic effectiveness of all NPIs for reducing COVID-19 infections declined along waves, from 95.4% in the first wave to 56.0% in the third wave recently at the global level and similarly from 83.3% to 58.7% at the USA national level, while it had fluctuating performance across waves on regional and subnational scales"
 
