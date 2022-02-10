@@ -1,4 +1,4 @@
-*Updated: 08 Feb 2022*
+*Updated: 10 Feb 2022*
 
 Author: Marc Bevand
 
@@ -6,7 +6,7 @@ This repository is a list—as exhaustive as possible—of all peer-reviewed &
 published research articles that evaluate the effectiveness of
 nonpharmaceutical interventions, specifically lockdowns on COVID-19.
 
-Papers finding NPIs effective outnumber, by 6 to 1, those finding them ineffective.
+Papers finding NPIs effective outnumber, by 7 to 1, those finding them ineffective.
 
 ## Criteria for inclusion in the list
 
@@ -21,8 +21,8 @@ Papers finding NPIs effective outnumber, by 6 to 1, those finding them ineffecti
 
 The list is included below, and is also available in JSON format: [articles.json](articles.json)
 
-There are 55 research articles
-* 41 papers find NPIs are generally effective (:heavy_check_mark:)
+There are 56 research articles
+* 42 papers find NPIs are generally effective (:heavy_check_mark:)
 * 8 papers find NPIs are inconclusive (:question:)
 * 6 papers find NPIs are generally ineffective (:no_entry_sign:)
 
@@ -240,11 +240,15 @@ Sorted by chronological order of publication:
 
   :heavy_check_mark: "Partial lockdown [...] is seen to be highly effective in confining cases" however they add "as compared to a complete lockdown"
 
-54. https://www.mdpi.com/1660-4601/19/3/1139 (Jan 2022)
+54. https://www.nature.com/articles/s41598-021-04731-5 (Jan 2022)
+
+  :heavy_check_mark: "Our investigation confirmed the usefulness of NPIs implemented worldwide, complementing and adding to the existing literature"
+
+55. https://www.mdpi.com/1660-4601/19/3/1139 (Jan 2022)
 
   :heavy_check_mark: "Our findings support the evidence that besides the vaccine increasingly contributing to pandemic control, the implementation of NPIs also plays a key role"
 
-55. https://www.sciencedirect.com/science/article/pii/S0303243421003561 (Feb 2022)
+56. https://www.sciencedirect.com/science/article/pii/S0303243421003561 (Feb 2022)
 
   :heavy_check_mark: "The synergistic effectiveness of all NPIs for reducing COVID-19 infections declined along waves, from 95.4% in the first wave to 56.0% in the third wave recently at the global level and similarly from 83.3% to 58.7% at the USA national level, while it had fluctuating performance across waves on regional and subnational scales"
 
