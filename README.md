@@ -21,8 +21,8 @@ Papers finding NPIs effective outnumber, by 7 to 1, those finding them ineffecti
 
 The list is included below, and is also available in JSON format: [articles.json](articles.json)
 
-There are 56 research articles
-* 42 papers find NPIs are generally effective (:heavy_check_mark:)
+There are 57 research articles
+* 43 papers find NPIs are generally effective (:heavy_check_mark:)
 * 8 papers find NPIs are inconclusive (:question:)
 * 6 papers find NPIs are generally ineffective (:no_entry_sign:)
 
@@ -224,31 +224,35 @@ Sorted by chronological order of publication:
 
   :heavy_check_mark: "Our analyses confirm that the imposition of non-pharmaceutical control measures have been effective in controlling epidemics in each investigated country" however "we were unable to demonstrate a strong impact from every intervention"
 
-50. https://www.tandfonline.com/doi/full/10.1080/00036846.2021.1955089 (Aug 2021)
+50. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253116 (Jul 2021)
+
+  :heavy_check_mark: "government policies were effective in reducing deaths in all waves in all groups of countries. These findings highlight the enduring importance of non-pharmaceutical responses to COVID-19 over time"
+
+51. https://www.tandfonline.com/doi/full/10.1080/00036846.2021.1955089 (Aug 2021)
 
   :no_entry_sign: "Our preferred baseline model indicates that the first national lockdown in England and Wales had a net mortality increasing effect"
 
-51. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257455 (Sep 2021)
+52. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257455 (Sep 2021)
 
   :question: "it does not imply that lockdowns had no effect, but it does suggest that other non-pharmaceutical interventions (NPIs) may have been much more effective than Knock et al. imply"
 
-52. https://www.nature.com/articles/s41467-021-26013-4 (Oct 2021)
+53. https://www.nature.com/articles/s41467-021-26013-4 (Oct 2021)
 
   :heavy_check_mark: "Defining a “lockdown” policy as a ban on all gatherings and closure of all nonessential businesses, we estimate a total reduction in Rt of 52% [95% CI: 47–56%]"
 
-53. https://link.springer.com/article/10.1007/s00477-021-02160-4 (Jan 2022)
+54. https://link.springer.com/article/10.1007/s00477-021-02160-4 (Jan 2022)
 
   :heavy_check_mark: "Partial lockdown [...] is seen to be highly effective in confining cases" however they add "as compared to a complete lockdown"
 
-54. https://www.nature.com/articles/s41598-021-04731-5 (Jan 2022)
+55. https://www.nature.com/articles/s41598-021-04731-5 (Jan 2022)
 
   :heavy_check_mark: "Our investigation confirmed the usefulness of NPIs implemented worldwide, complementing and adding to the existing literature"
 
-55. https://www.mdpi.com/1660-4601/19/3/1139 (Jan 2022)
+56. https://www.mdpi.com/1660-4601/19/3/1139 (Jan 2022)
 
   :heavy_check_mark: "Our findings support the evidence that besides the vaccine increasingly contributing to pandemic control, the implementation of NPIs also plays a key role"
 
-56. https://www.sciencedirect.com/science/article/pii/S0303243421003561 (Feb 2022)
+57. https://www.sciencedirect.com/science/article/pii/S0303243421003561 (Feb 2022)
 
   :heavy_check_mark: "The synergistic effectiveness of all NPIs for reducing COVID-19 infections declined along waves, from 95.4% in the first wave to 56.0% in the third wave recently at the global level and similarly from 83.3% to 58.7% at the USA national level, while it had fluctuating performance across waves on regional and subnational scales"
 
