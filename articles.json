@@ -36,6 +36,20 @@
   },
   {
     "finding": "effective",
+    "title": "The Efficacy of Lockdown Against COVID-19: A Cross-Country Panel Analysis",
+    "url": "https://link.springer.com/article/10.1007/s40258-020-00596-3",
+    "quote": "\"Our results show that lockdown is effective in reducing the number of new cases in the countries that implement it, compared with those countries that do not\"",
+    "pub": "Jun 2020"
+  },
+  {
+    "finding": "effective",
+    "title": "Lockdown During COVID-19: The Greek Success",
+    "url": "https://iv.iiarjournals.org/content/34/3_suppl/1695",
+    "quote": "\"Early lockdown was proven to be the appropriate policy to limit the spread of COVID-19. Greece was a success story in preventing spread despite limited resources\"",
+    "pub": "Jun 2020"
+  },
+  {
+    "finding": "effective",
     "title": "Association between mobility patterns and COVID-19 transmission in the USA: a mathematical modelling study",
     "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30553-3/fulltext",
     "quote": "\"mobility patterns are strongly correlated with decreased COVID-19 case\"",
@@ -211,6 +225,13 @@
   },
   {
     "finding": "effective",
+    "title": "Effectiveness of non-pharmaceutical interventions on COVID-19 transmission in 190 countries from 23 January to 13 April 2020",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1201971220322700",
+    "quote": "\"we found that any type of NPI, namely mandatory face mask in public, isolation or quarantine, social distancing and traffic restriction, may reduce the spread of COVID-19\"",
+    "pub": "Jan 2021"
+  },
+  {
+    "finding": "effective",
     "title": "Effectiveness of non-pharmaceutical interventions to contain COVID-19: a case study of the 2020 spring pandemic wave in New York City",
     "url": "https://royalsocietypublishing.org/doi/10.1098/rsif.2020.0822",
     "quote": "\"Lockdown-like measures were associated with greater than 50% transmission reduction for all age groups\"",
@@ -365,6 +386,13 @@
   },
   {
     "finding": "effective",
+    "title": "The sooner the better: lives saved by the lockdown during the COVID-19 outbreak. The case of Italy",
+    "url": "https://academic.oup.com/ectj/article-abstract/25/1/46/6363683",
+    "quote": "\"From an empirical point of view, we find strong evidence of the effectiveness of non-pharmaceutical interventions in avoiding losses of human lives in Italy\"",
+    "pub": "Sep 2021"
+  },
+  {
+    "finding": "effective",
     "title": "Understanding the effectiveness of government interventions against the resurgence of COVID-19 in Europe",
     "url": "https://www.nature.com/articles/s41467-021-26013-4",
     "quote": "\"Defining a “lockdown” policy as a ban on all gatherings and closure of all nonessential businesses, we estimate a total reduction in Rt of 52% [95% CI: 47–56%]\"",
@@ -397,5 +425,12 @@
     "url": "https://www.sciencedirect.com/science/article/pii/S0303243421003561",
     "quote": "\"The synergistic effectiveness of all NPIs for reducing COVID-19 infections declined along waves, from 95.4% in the first wave to 56.0% in the third wave recently at the global level and similarly from 83.3% to 58.7% at the USA national level, while it had fluctuating performance across waves on regional and subnational scales\"",
     "pub": "Feb 2022"
+  },
+  {
+    "finding": "effective",
+    "title": "The lockdown, mobility, and spatial health disparities in COVID-19 pandemic: A case study of New York City",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0264275121004480",
+    "quote": "\"The lockdown in NYC is generally effective\" however \"the effect of lockdown policy in NYC varies significantly across neighborhoods\"",
+    "pub": "Mar 2022"
   }
 ]
