@@ -1,6 +1,13 @@
 [
   {
     "finding": "effective",
+    "title": "An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China",
+    "url": "https://www.science.org/doi/full/10.1126/science.abb6105",
+    "quote": "\"measures such as closing citywide public transport and entertainment venues and banning public gatherings combined to avert hundreds of thousands of cases of infection\"",
+    "pub": "Mar 2020"
+  },
+  {
+    "finding": "effective",
     "title": "Inferring change points in the spread of COVID-19 reveals the effectiveness of interventions",
     "url": "https://science.sciencemag.org/content/early/2020/05/14/science.abb9789",
     "quote": "\"we detected change points in the effective growth rate that correlate well with the times of publicly announced interventions\"",
