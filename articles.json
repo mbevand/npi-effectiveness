@@ -36,6 +36,13 @@
   },
   {
     "finding": "effective",
+    "title": "Effect of non-pharmaceutical interventions to contain COVID-19 in China",
+    "url": "https://www.nature.com/articles/s41586-020-2293-x",
+    "quote": "\"Without non-pharmaceutical interventions, we predict that the number of cases would have been 67-fold higher\"",
+    "pub": "May 2020"
+  },
+  {
+    "finding": "effective",
     "title": "Estimating the effects of non-pharmaceutical interventions on COVID-19 in Europe",
     "url": "https://www.nature.com/articles/s41586-020-2405-7",
     "quote": "\"Our results show that major non-pharmaceutical interventions—and lockdowns in particular—have had a large effect on reducing transmission\"",
@@ -277,6 +284,13 @@
     "title": "The temporal association of introducing and lifting non-pharmaceutical interventions with the time-varying reproduction number (R) of SARS-CoV-2: a modelling study across 131 countries",
     "url": "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30785-4/fulltext",
     "quote": "\"Individual NPIs, including school closure, workplace closure, public events ban, ban on gatherings of more than ten people, requirements to stay at home, and internal movement limits, are associated with reduced transmission of SARS-CoV-2\"",
+    "pub": "Feb 2021"
+  },
+  {
+    "finding": "effective",
+    "title": "Integrated vaccination and physical distancing interventions to prevent future COVID-19 waves in Chinese cities",
+    "url": "https://www.nature.com/articles/s41562-021-01063-2",
+    "quote": "\"this study shows that non-pharmaceutical interventions are likely to substantially reduce COVID-19 transmission\"",
     "pub": "Feb 2021"
   },
   {
