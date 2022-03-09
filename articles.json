@@ -8,6 +8,13 @@
   },
   {
     "finding": "effective",
+    "title": "The positive impact of lockdown in Wuhan on containing the COVID-19 outbreak in China",
+    "url": "https://academic.oup.com/jtm/article/27/3/taaa037/5808003",
+    "quote": "\"A significantly decreased growth rate and increased doubling time of cases was observed, which is most likely due to Chinese lockdown measures\"",
+    "pub": "Mar 2020"
+  },
+  {
+    "finding": "effective",
     "title": "Inferring change points in the spread of COVID-19 reveals the effectiveness of interventions",
     "url": "https://science.sciencemag.org/content/early/2020/05/14/science.abb9789",
     "quote": "\"we detected change points in the effective growth rate that correlate well with the times of publicly announced interventions\"",
