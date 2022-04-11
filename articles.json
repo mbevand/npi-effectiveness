@@ -442,6 +442,13 @@
   },
   {
     "finding": "effective",
+    "title": "Stay at Home! Governance Quality and Effectiveness of Lockdown",
+    "url": "https://link.springer.com/article/10.1007/s11205-021-02742-3",
+    "quote": "\"Our results suggest that countries with higher levels of government effectiveness, rule of law and regulatory quality reach better results in adopting lockdown measures\" however \"one may consider our results not to be fully generalizable as regards the issue of policy effectiveness, due to the specificity of the historical moment\"",
+    "pub": "Jun 2021"
+  },
+  {
+    "finding": "effective",
     "title": "Impact of non-pharmaceutical interventions against COVID-19 in Europe in 2020: a quasi-experimental non-equivalent group and time series design study",
     "url": "https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.28.2001401",
     "quote": "\"Our analyses confirm that the imposition of non-pharmaceutical control measures have been effective in controlling epidemics in each investigated country\" however \"we were unable to demonstrate a strong impact from every intervention\"",
