@@ -386,6 +386,13 @@
   },
   {
     "finding": "effective",
+    "title": "An interrupted time series analysis of the lockdown policies in India: a national-level analysis of COVID-19 incidence",
+    "url": "https://academic.oup.com/heapol/article/36/5/620/6252392",
+    "quote": "\"the policy helped to ‘flatten the curve’ and buy additional time for pandemic preparedness, response and recovery\"",
+    "pub": "Apr 2021"
+  },
+  {
+    "finding": "effective",
     "title": "Closed for business: The mortality impact of business closures during the Covid-19 pandemic",
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251373",
     "quote": "\"Overall, the results suggest business shutdowns are effective, but should be selectively implemented and centrally coordinated\"",
