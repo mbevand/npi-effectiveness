@@ -120,6 +120,13 @@
   },
   {
     "finding": "effective",
+    "title": "Lockdown timing and efficacy in controlling COVID-19 using mobile phone tracking",
+    "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30201-7/fulltext",
+    "quote": "\"With a tighter lockdown, mobility decreased enough to bring down transmission promptly below the level needed to sustain the epidemic\"",
+    "pub": "Jul 2020"
+  },
+  {
+    "finding": "effective",
     "title": "The effect of large-scale anti-contagion policies on the COVID-19 pandemic",
     "url": "https://www.nature.com/articles/s41586-020-2404-8",
     "quote": "\"interventions prevented or delayed on the order of 61 million confirmed cases, corresponding to averting approximately 495 million total infections\"",
