@@ -469,6 +469,13 @@
     "pub": "Jul 2021"
   },
   {
+    "finding": "effective",
+    "title": "Breakpoint modelling of temporal associations between non-pharmaceutical interventions and symptomatic COVID-19 incidence in the Republic of Ireland",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255254",
+    "quote": "\"Study findings suggest that many NPIs have been successful in decreasing COVID-19 incidence rates\" however \"the strictest Phase 5 NPI was not\"",
+    "pub": "Jul 2021"
+  },
+  {
     "finding": "ineffective",
     "title": "COVID-19 mortalities in England and Wales and the Peltzman offsetting effect",
     "url": "https://www.tandfonline.com/doi/full/10.1080/00036846.2021.1955089",

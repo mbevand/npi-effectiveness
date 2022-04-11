@@ -6,7 +6,7 @@ This repository is a list—as exhaustive as possible—of all peer-reviewed &
 published research articles that evaluate the effectiveness of
 nonpharmaceutical interventions, specifically lockdowns on COVID-19.
 
-Papers finding NPIs effective outnumber, by 8 to 1, those finding them ineffective.
+Papers finding NPIs effective outnumber, by 10 to 1, those finding them ineffective.
 
 ## Criteria for inclusion in the list
 
@@ -21,8 +21,8 @@ Papers finding NPIs effective outnumber, by 8 to 1, those finding them ineffecti
 
 The list is included below, and is also available in JSON format: [articles.json](articles.json)
 
-There are 77 research articles
-* 62 papers find NPIs are generally effective (:heavy_check_mark:)
+There are 78 research articles
+* 63 papers find NPIs are generally effective (:heavy_check_mark:)
 * 9 papers find NPIs are inconclusive (:question:)
 * 6 papers find NPIs are generally ineffective (:no_entry_sign:)
 
@@ -296,43 +296,47 @@ Sorted by chronological order of publication:
   Government responses and COVID-19 deaths: Global evidence across multiple pandemic waves  
   :heavy_check_mark: "government policies were effective in reducing deaths in all waves in all groups of countries. These findings highlight the enduring importance of non-pharmaceutical responses to COVID-19 over time"
 
-68. https://www.tandfonline.com/doi/full/10.1080/00036846.2021.1955089 (Aug 2021)  
+68. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0255254 (Jul 2021)  
+  Breakpoint modelling of temporal associations between non-pharmaceutical interventions and symptomatic COVID-19 incidence in the Republic of Ireland  
+  :heavy_check_mark: "Study findings suggest that many NPIs have been successful in decreasing COVID-19 incidence rates" however "the strictest Phase 5 NPI was not"
+
+69. https://www.tandfonline.com/doi/full/10.1080/00036846.2021.1955089 (Aug 2021)  
   COVID-19 mortalities in England and Wales and the Peltzman offsetting effect  
   :no_entry_sign: "Our preferred baseline model indicates that the first national lockdown in England and Wales had a net mortality increasing effect"
 
-69. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257455 (Sep 2021)  
+70. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0257455 (Sep 2021)  
   Was R < 1 before the English lockdowns? On modelling mechanistic detail, causality and inference about Covid-19  
   :question: "it does not imply that lockdowns had no effect, but it does suggest that other non-pharmaceutical interventions (NPIs) may have been much more effective than Knock et al. imply"
 
-70. https://academic.oup.com/ectj/article-abstract/25/1/46/6363683 (Sep 2021)  
+71. https://academic.oup.com/ectj/article-abstract/25/1/46/6363683 (Sep 2021)  
   The sooner the better: lives saved by the lockdown during the COVID-19 outbreak. The case of Italy  
   :heavy_check_mark: "From an empirical point of view, we find strong evidence of the effectiveness of non-pharmaceutical interventions in avoiding losses of human lives in Italy"
 
-71. https://www.sciencedirect.com/science/article/pii/S0213911120300984 (Sep 2021)  
+72. https://www.sciencedirect.com/science/article/pii/S0213911120300984 (Sep 2021)  
   Analysis of the impact of lockdown on the reproduction number of the SARS-Cov-2 in Spain  
   :heavy_check_mark: "The estimated number of cases shows a sharp increase until the lockdown, followed by a slowing down and then a decrease after full quarantine was implemented"
 
-72. https://www.nature.com/articles/s41467-021-26013-4 (Oct 2021)  
+73. https://www.nature.com/articles/s41467-021-26013-4 (Oct 2021)  
   Understanding the effectiveness of government interventions against the resurgence of COVID-19 in Europe  
   :heavy_check_mark: "Defining a “lockdown” policy as a ban on all gatherings and closure of all nonessential businesses, we estimate a total reduction in Rt of 52% [95% CI: 47–56%]"
 
-73. https://link.springer.com/article/10.1007/s00477-021-02160-4 (Jan 2022)  
+74. https://link.springer.com/article/10.1007/s00477-021-02160-4 (Jan 2022)  
   The influence of meteorological variables and lockdowns on COVID-19 cases in urban agglomerations of Indian cities  
   :heavy_check_mark: "Partial lockdown [...] is seen to be highly effective in confining cases" however they add "as compared to a complete lockdown"
 
-74. https://www.nature.com/articles/s41598-021-04731-5 (Jan 2022)  
+75. https://www.nature.com/articles/s41598-021-04731-5 (Jan 2022)  
   Harnessing Artificial Intelligence to assess the impact of nonpharmaceutical interventions on the second wave of the Coronavirus Disease 2019 pandemic across the world  
   :heavy_check_mark: "Our investigation confirmed the usefulness of NPIs implemented worldwide, complementing and adding to the existing literature"
 
-75. https://www.mdpi.com/1660-4601/19/3/1139 (Jan 2022)  
+76. https://www.mdpi.com/1660-4601/19/3/1139 (Jan 2022)  
   The Effects of Non-Pharmaceutical Interventions on COVID-19 Epidemic Growth Rate during Pre- and Post-Vaccination Period in Asian Countries  
   :heavy_check_mark: "Our findings support the evidence that besides the vaccine increasingly contributing to pandemic control, the implementation of NPIs also plays a key role"
 
-76. https://www.sciencedirect.com/science/article/pii/S0303243421003561 (Feb 2022)  
+77. https://www.sciencedirect.com/science/article/pii/S0303243421003561 (Feb 2022)  
   Impacts of worldwide individual non-pharmaceutical interventions on COVID-19 transmission across waves and space  
   :heavy_check_mark: "The synergistic effectiveness of all NPIs for reducing COVID-19 infections declined along waves, from 95.4% in the first wave to 56.0% in the third wave recently at the global level and similarly from 83.3% to 58.7% at the USA national level, while it had fluctuating performance across waves on regional and subnational scales"
 
-77. https://www.sciencedirect.com/science/article/pii/S0264275121004480 (Mar 2022)  
+78. https://www.sciencedirect.com/science/article/pii/S0264275121004480 (Mar 2022)  
   The lockdown, mobility, and spatial health disparities in COVID-19 pandemic: A case study of New York City  
   :heavy_check_mark: "The lockdown in NYC is generally effective" however "the effect of lockdown policy in NYC varies significantly across neighborhoods"
 
