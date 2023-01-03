@@ -21,8 +21,8 @@ Papers finding NPIs effective outnumber, by 10 to 1, those finding them ineffect
 
 The list is included below, and is also available in JSON format: [articles.json](articles.json)
 
-There are 78 research articles
-* 63 papers find NPIs are generally effective (:heavy_check_mark:)
+There are 79 research articles
+* 64 papers find NPIs are generally effective (:heavy_check_mark:)
 * 9 papers find NPIs are inconclusive (:question:)
 * 6 papers find NPIs are generally ineffective (:no_entry_sign:)
 
@@ -339,4 +339,8 @@ Sorted by chronological order of publication:
 78. https://www.sciencedirect.com/science/article/pii/S0264275121004480 (Mar 2022)  
   The lockdown, mobility, and spatial health disparities in COVID-19 pandemic: A case study of New York City  
   :heavy_check_mark: "The lockdown in NYC is generally effective" however "the effect of lockdown policy in NYC varies significantly across neighborhoods"
+
+79. https://www.frontiersin.org/articles/10.3389/fpubh.2022.953472/full (Nov 2022)  
+  Responses to COVID-19 with probabilistic programming  
+  :heavy_check_mark: "we can conclude that a lockdown is capable of quickly curbing infections" however "it is too early to conclude that stringent policies like lockdowns are the most successful at mitigating the COVID-19 pandemic since the side effect of applying the policy should also be considered"
 
